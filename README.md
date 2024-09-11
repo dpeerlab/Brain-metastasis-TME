@@ -2,6 +2,6 @@
 
 Gan et al. Distinct tumor architectures and microenvironments for the initiation of breast cancer metastasis in the brain. Cancer Cell, 2024.
 
-Data for runnning the code can be downloaded from:
+Due to GitHub's size limitations, the data and reference files required to run the code are stored separately and can be downloaded from GSE223309.
 
-
+Each notebook performs an independent analysis, as indicated by its filename.
